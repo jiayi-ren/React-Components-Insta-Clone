@@ -44,6 +44,26 @@ const dummyData = [
                 text: "It that injustice"
             }
         ]
+    },{
+        username: "AAA",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://images.unsplash.com/photo-1471922694854-ff1b63b20054?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1952&q=80',
+        likes: 1000,
+        timestamp: "July 17th 2017, 13:42:40 pm",
+        comments: [
+            {
+                username: "michaelme",
+                text: "dddddddddddd"
+            },
+            {
+                username: "bianaurus",
+                text: "ooooooooo!"
+            },
+            {
+                username: "martinludo",
+                text: "!"
+            }
+        ]
     }
 ];
 
